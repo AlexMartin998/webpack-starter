@@ -1,0 +1,11 @@
+/* Este es un comentario del CSS global */
+html,
+body {
+    background-color: black;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    color: white;
+}
